@@ -1,8 +1,9 @@
 
 
 const sum = (a,b) =>{
-return a + b
+console.log(a+b)
 }
 
-console.log(sum(1,2))
+sum(1,2)
 
+//how to get the sum of 1 and 2 out of the function?
